@@ -7,13 +7,26 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1993 - 1995`
+__Santa Rosa Junior College__
+AA, English
 
 `1995 - 1997`
-__University Name__
-Degree Awarded 
+__University of California, Davis__
+BA, English Language & Literature
+
+`2000 - 2002`
+__McGill University__
+MA, English Language & Literature
+
+`2003 - 2008`
+__University of Tulsa__
+PhD, English Language & Literature
+
+`2015 - 2017`
+__San Jose State University__
+MLIS
+
 
 ## Awards
 
